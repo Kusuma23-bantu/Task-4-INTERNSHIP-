@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  background: #f1f1f1;
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+.product {
+  background: white;
+  padding: 15px;
+  border-radius: 5px;
+  width: 200px;
+}
